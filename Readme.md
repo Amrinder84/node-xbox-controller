@@ -12,7 +12,7 @@ Lots of low level details about the controller here:
 * http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/UsbInfo
 * http://euc.jp/periphs/xbox-controller.ja.html
 
-Mac OSX driver: for [Lion/Snow Leopard](http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver)
+driver for Mac OSX: for [Lion/Snow Leopard](http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver)
 or for [Yosemite](https://github.com/d235j/360Controller-n/releases)
 
 ## Install
